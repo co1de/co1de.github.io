@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>co1de&#39;s blogs</title>
+  
+  <subtitle>记录个人工作生活</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-01-28T10:39:44.172Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>co1de</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试</title>
+    <link href="http://yoursite.com/2019/01/27/hello-world/"/>
+    <id>http://yoursite.com/2019/01/27/hello-world/</id>
+    <published>2019-01-27T08:30:00.000Z</published>
+    <updated>2019-01-28T10:39:44.172Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="1-字数统计"><a href="#1-字数统计" class="headerlink" title="1.字数统计"></a>1.字数统计</h1><p>这里是字数统计测试</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;1-字数统计&quot;&gt;&lt;a href=&quot;#1-字数统计&quot; class=&quot;headerlink&quot; title=&quot;1.字数统计&quot;&gt;&lt;/a&gt;1.字数统计&lt;/h1&gt;&lt;p&gt;这里是字数统计测试&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="博客搭建" scheme="http://yoursite.com/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    
+    
+      <category term="测试" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+</feed>
