@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-01-28T16:17:11.422Z</updated>
+  <updated>2019-01-28T16:38:23.302Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,15 +21,15 @@
     <link href="http://yoursite.com/2019/01/27/hello-world/"/>
     <id>http://yoursite.com/2019/01/27/hello-world/</id>
     <published>2019-01-27T08:30:00.000Z</published>
-    <updated>2019-01-28T16:17:11.422Z</updated>
+    <updated>2019-01-28T16:38:23.302Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="1-字数统计"><a href="#1-字数统计" class="headerlink" title="1.字数统计"></a>1.字数统计</h1><h1 id="1-1-这里是字数统计测试"><a href="#1-1-这里是字数统计测试" class="headerlink" title="1.1 这里是字数统计测试"></a>1.1 这里是字数统计测试</h1><p>压缩测试</p>]]></content>
+    <content type="html"><![CDATA[<!-- build time:Tue Jan 29 2019 00:38:39 GMT+0800 (GMT+08:00) --><h1 id="1-字数统计"><a href="#1-字数统计" class="headerlink" title="1.字数统计"></a>1.字数统计</h1><h1 id="1-1-这里是字数统计测试"><a href="#1-1-这里是字数统计测试" class="headerlink" title="1.1 这里是字数统计测试"></a>1.1 这里是字数统计测试</h1><p>压缩测试1.0</p><!-- rebuild by neat -->]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h1 id=&quot;1-字数统计&quot;&gt;&lt;a href=&quot;#1-字数统计&quot; class=&quot;headerlink&quot; title=&quot;1.字数统计&quot;&gt;&lt;/a&gt;1.字数统计&lt;/h1&gt;&lt;h1 id=&quot;1-1-这里是字数统计测试&quot;&gt;&lt;a href=&quot;#1-1-这里是字数统计测试&quot; class=&quot;he
+        &lt;!-- build time:Tue Jan 29 2019 00:38:39 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;1-字数统计&quot;&gt;&lt;a href=&quot;#1-字数统计&quot; class=&quot;headerlink&quot; title=&quot;1.字数统计&quot;&gt;&lt;/a&gt;1.字
       
     
     </summary>
