@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-01-28T16:02:06.703Z</updated>
+  <updated>2019-01-28T16:17:11.422Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yoursite.com/2019/01/27/hello-world/"/>
     <id>http://yoursite.com/2019/01/27/hello-world/</id>
     <published>2019-01-27T08:30:00.000Z</published>
-    <updated>2019-01-28T16:02:06.703Z</updated>
+    <updated>2019-01-28T16:17:11.422Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="1-字数统计"><a href="#1-字数统计" class="headerlink" title="1.字数统计"></a>1.字数统计</h1><h1 id="1-1-这里是字数统计测试"><a href="#1-1-这里是字数统计测试" class="headerlink" title="1.1 这里是字数统计测试"></a>1.1 这里是字数统计测试</h1>]]></content>
+    <content type="html"><![CDATA[<h1 id="1-字数统计"><a href="#1-字数统计" class="headerlink" title="1.字数统计"></a>1.字数统计</h1><h1 id="1-1-这里是字数统计测试"><a href="#1-1-这里是字数统计测试" class="headerlink" title="1.1 这里是字数统计测试"></a>1.1 这里是字数统计测试</h1><p>压缩测试</p>]]></content>
     
     <summary type="html">
     
