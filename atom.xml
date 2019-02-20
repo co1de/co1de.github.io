@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-01-28T17:01:59.103Z</updated>
+  <updated>2019-02-20T12:28:48.867Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,19 +17,19 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>测试模块</title>
-    <link href="http://yoursite.com/2019/01/27/hello-world/"/>
-    <id>http://yoursite.com/2019/01/27/hello-world/</id>
-    <published>2019-01-27T08:30:00.000Z</published>
-    <updated>2019-01-28T17:01:59.103Z</updated>
+    <title>博客搭建相关</title>
+    <link href="http://yoursite.com/2019/02/20/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E7%9B%B8%E5%85%B3/"/>
+    <id>http://yoursite.com/2019/02/20/博客搭建相关/</id>
+    <published>2019-02-20T12:14:00.000Z</published>
+    <updated>2019-02-20T12:28:48.867Z</updated>
     
-    <content type="html"><![CDATA[<!-- build time:Tue Jan 29 2019 01:02:11 GMT+0800 (GMT+08:00) --><h1 id="1-字数统计"><a href="#1-字数统计" class="headerlink" title="1.字数统计"></a>1.字数统计</h1><h1 id="1-1-这里是字数统计测试"><a href="#1-1-这里是字数统计测试" class="headerlink" title="1.1 这里是字数统计测试"></a>1.1 这里是字数统计测试</h1><p>压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0</p><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<!-- build time:Wed Feb 20 2019 20:29:11 GMT+0800 (中国标准时间) --><p>本部分简略的记录了博客搭建过程中参考的主要网站</p><ul><li><a href="https://www.imooc.com/article/31085" target="_blank" rel="noopener">https://www.imooc.com/article/31085</a> 里面连接的几篇文章读下来hexo应该就没问题了，这篇是用来部署的</li><li><a href="https://www.zhihu.com/question/21193762" target="_blank" rel="noopener">https://www.zhihu.com/question/21193762</a> 博客迁移相关，主要是github分支和云盘两种方式。最终个人采用了云盘的方式（因为懒。。。）</li></ul><p>hexo这东西折腾起来可以玩几天，有精力了再优化界面吧，只要博客写博客功能正常就行。<br>关于迁移的问题，我个人云盘备份，在新机器上直接npm install就完事了。<br>另外本人最后写博客用的是hexo admin方式，暂时能满足需要，不过有些语法好像支持有点问题，后面有时间继续折腾吧。</p><!-- rebuild by neat -->]]></content>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Tue Jan 29 2019 01:02:11 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;1-字数统计&quot;&gt;&lt;a href=&quot;#1-字数统计&quot; class=&quot;headerlink&quot; title=&quot;1.字数统计&quot;&gt;&lt;/a&gt;1.字
+        &lt;!-- build time:Wed Feb 20 2019 20:29:11 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;本部分简略的记录了博客搭建过程中参考的主要网站&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.imooc.com/article/3
       
     
     </summary>
@@ -37,7 +37,28 @@
       <category term="博客搭建" scheme="http://yoursite.com/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
     
     
-      <category term="测试" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95/"/>
+  </entry>
+  
+  <entry>
+    <title>博客功能测试</title>
+    <link href="http://yoursite.com/2019/01/27/hello-world/"/>
+    <id>http://yoursite.com/2019/01/27/hello-world/</id>
+    <published>2019-01-27T08:30:00.000Z</published>
+    <updated>2019-02-20T12:27:07.562Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Wed Feb 20 2019 20:29:11 GMT+0800 (中国标准时间) --><h1 id="1-字数统计"><a href="#1-字数统计" class="headerlink" title="1.字数统计"></a>1.字数统计</h1><h1 id="1-1-这里是字数统计测试"><a href="#1-1-这里是字数统计测试" class="headerlink" title="1.1 这里是字数统计测试"></a>1.1 这里是字数统计测试</h1><p>压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0</p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Wed Feb 20 2019 20:29:11 GMT+0800 (中国标准时间) --&gt;&lt;h1 id=&quot;1-字数统计&quot;&gt;&lt;a href=&quot;#1-字数统计&quot; class=&quot;headerlink&quot; title=&quot;1.字数统计&quot;&gt;&lt;/a&gt;1.字数统计
+      
+    
+    </summary>
+    
+      <category term="博客搭建" scheme="http://yoursite.com/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    
     
   </entry>
   
