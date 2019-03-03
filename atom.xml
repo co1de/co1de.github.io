@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-02-20T12:28:48.867Z</updated>
+  <updated>2019-03-03T13:39:33.800Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,19 +17,42 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>常用git命令记录</title>
+    <link href="http://yoursite.com/2019/03/03/%E5%B8%B8%E7%94%A8git%E5%91%BD%E4%BB%A4%E8%AE%B0%E5%BD%95/"/>
+    <id>http://yoursite.com/2019/03/03/常用git命令记录/</id>
+    <published>2019-03-03T13:30:00.000Z</published>
+    <updated>2019-03-03T13:39:33.800Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Sun Mar 03 2019 21:40:07 GMT+0800 (中国标准时间) --><h1 id="1-远程仓库相关命令"><a href="#1-远程仓库相关命令" class="headerlink" title="1.远程仓库相关命令"></a>1.远程仓库相关命令</h1><p>检出仓库：$ git clone <a href="mailto:git@github.com" target="_blank" rel="noopener">git@github.com</a>:co1de/co1de.github.io.git<br>查看远程仓库：$ git remote -v<br>添加远程仓库：$ git remote add [name] [url]<br>删除远程仓库：$ git remote rm [name]<br>修改远程仓库：$ git remote set-url –push[name][newUrl]<br>拉取远程仓库：$ git pull [remoteName] [localBranchName]<br>推送远程仓库：$ git push [remoteName] [localBranchName]</p><h1 id="2-分支-branch-操作相关命令"><a href="#2-分支-branch-操作相关命令" class="headerlink" title="2.分支(branch)操作相关命令"></a>2.分支(branch)操作相关命令</h1><p>查看本地分支：$ git branch<br>查看远程分支：$ git branch -r<br>创建本地分支：$ git branch [name] —-注意新分支创建后不会自动切换为当前分支<br>切换分支：$ git checkout [name]<br>创建新分支并立即切换到新分支：$ git checkout -b [name]<br>删除分支：$ git branch -d [name] —- -d选项只能删除已经参与了合并的分支，对于未有合并的分支是无法删除的。如果想强制删除一个分支，可以使用-D选项<br>合并分支：$ git merge [name] —-将名称为[name]的分支与当前分支合并<br>创建远程分支(本地分支push到远程)：$ git push origin [name]<br>删除远程分支：$ git push origin :heads/[name] 推送一个空分支，或是git push orgin –delete</p><p>记录一下常见的命令，方便查阅。</p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Sun Mar 03 2019 21:40:07 GMT+0800 (中国标准时间) --&gt;&lt;h1 id=&quot;1-远程仓库相关命令&quot;&gt;&lt;a href=&quot;#1-远程仓库相关命令&quot; class=&quot;headerlink&quot; title=&quot;1.远程仓库相关命令
+      
+    
+    </summary>
+    
+    
+      <category term="git" scheme="http://yoursite.com/tags/git/"/>
+    
+  </entry>
+  
+  <entry>
     <title>博客搭建相关</title>
     <link href="http://yoursite.com/2019/02/20/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E7%9B%B8%E5%85%B3/"/>
     <id>http://yoursite.com/2019/02/20/博客搭建相关/</id>
     <published>2019-02-20T12:14:00.000Z</published>
     <updated>2019-02-20T12:28:48.867Z</updated>
     
-    <content type="html"><![CDATA[<!-- build time:Wed Feb 20 2019 20:28:48 GMT+0800 (中国标准时间) --><p>本部分简略的记录了博客搭建过程中参考的主要网站</p><ul><li><a href="https://www.imooc.com/article/31085" target="_blank" rel="noopener">https://www.imooc.com/article/31085</a> 里面连接的几篇文章读下来hexo应该就没问题了，这篇是用来部署的</li><li><a href="https://www.zhihu.com/question/21193762" target="_blank" rel="noopener">https://www.zhihu.com/question/21193762</a> 博客迁移相关，主要是github分支和云盘两种方式。最终个人采用了云盘的方式（因为懒。。。）</li></ul><p>hexo这东西折腾起来可以玩几天，有精力了再优化界面吧，只要博客写博客功能正常就行。<br>关于迁移的问题，我个人云盘备份，在新机器上直接npm install就完事了。<br>另外本人最后写博客用的是hexo admin方式，暂时能满足需要，不过有些语法好像支持有点问题，后面有时间继续折腾吧。</p><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<!-- build time:Sun Mar 03 2019 21:29:54 GMT+0800 (中国标准时间) --><p>本部分简略的记录了博客搭建过程中参考的主要网站</p><ul><li><a href="https://www.imooc.com/article/31085" target="_blank" rel="noopener">https://www.imooc.com/article/31085</a> 里面连接的几篇文章读下来hexo应该就没问题了，这篇是用来部署的</li><li><a href="https://www.zhihu.com/question/21193762" target="_blank" rel="noopener">https://www.zhihu.com/question/21193762</a> 博客迁移相关，主要是github分支和云盘两种方式。最终个人采用了云盘的方式（因为懒。。。）</li></ul><p>hexo这东西折腾起来可以玩几天，有精力了再优化界面吧，只要博客写博客功能正常就行。<br>关于迁移的问题，我个人云盘备份，在新机器上直接npm install就完事了。<br>另外本人最后写博客用的是hexo admin方式，暂时能满足需要，不过有些语法好像支持有点问题，后面有时间继续折腾吧。</p><!-- rebuild by neat -->]]></content>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Wed Feb 20 2019 20:28:48 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;本部分简略的记录了博客搭建过程中参考的主要网站&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.imooc.com/article/3
+        &lt;!-- build time:Sun Mar 03 2019 21:29:54 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;本部分简略的记录了博客搭建过程中参考的主要网站&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.imooc.com/article/3
       
     
     </summary>
@@ -46,13 +69,13 @@
     <published>2019-01-27T08:30:00.000Z</published>
     <updated>2019-02-20T12:27:07.562Z</updated>
     
-    <content type="html"><![CDATA[<!-- build time:Wed Feb 20 2019 20:27:07 GMT+0800 (中国标准时间) --><h1 id="1-字数统计"><a href="#1-字数统计" class="headerlink" title="1.字数统计"></a>1.字数统计</h1><h1 id="1-1-这里是字数统计测试"><a href="#1-1-这里是字数统计测试" class="headerlink" title="1.1 这里是字数统计测试"></a>1.1 这里是字数统计测试</h1><p>压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0</p><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<!-- build time:Sun Mar 03 2019 21:29:54 GMT+0800 (中国标准时间) --><h1 id="1-字数统计"><a href="#1-字数统计" class="headerlink" title="1.字数统计"></a>1.字数统计</h1><h1 id="1-1-这里是字数统计测试"><a href="#1-1-这里是字数统计测试" class="headerlink" title="1.1 这里是字数统计测试"></a>1.1 这里是字数统计测试</h1><p>压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0压缩测试1.0</p><!-- rebuild by neat -->]]></content>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Wed Feb 20 2019 20:27:07 GMT+0800 (中国标准时间) --&gt;&lt;h1 id=&quot;1-字数统计&quot;&gt;&lt;a href=&quot;#1-字数统计&quot; class=&quot;headerlink&quot; title=&quot;1.字数统计&quot;&gt;&lt;/a&gt;1.字数统计
+        &lt;!-- build time:Sun Mar 03 2019 21:29:54 GMT+0800 (中国标准时间) --&gt;&lt;h1 id=&quot;1-字数统计&quot;&gt;&lt;a href=&quot;#1-字数统计&quot; class=&quot;headerlink&quot; title=&quot;1.字数统计&quot;&gt;&lt;/a&gt;1.字数统计
       
     
     </summary>
