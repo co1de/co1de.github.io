@@ -40,19 +40,19 @@
   </entry>
   
   <entry>
-    <title>博客搭建相关</title>
+    <title>博客搭建相关（个人草稿）</title>
     <link href="http://yoursite.com/2019/02/20/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E7%9B%B8%E5%85%B3/"/>
     <id>http://yoursite.com/2019/02/20/博客搭建相关/</id>
     <published>2019-02-20T12:14:00.000Z</published>
-    <updated>2019-03-03T13:58:47.423Z</updated>
+    <updated>2019-03-03T15:20:33.546Z</updated>
     
-    <content type="html"><![CDATA[<!-- build time:Sun Mar 03 2019 22:17:26 GMT+0800 (中国标准时间) --><p>本部分简略的记录了博客搭建过程中参考的主要网站</p><ul><li><a href="https://www.imooc.com/article/31085" target="_blank" rel="noopener">关于Hexo6.0搭建个人博客(github+Google-收录篇)</a> 里面连接的几篇文章读下来hexo应该就没问题了，这篇是用来部署的</li><li><a href="https://www.zhihu.com/question/21193762" target="_blank" rel="noopener">使用hexo，如果换了电脑怎么更新博客？ </a>博客迁移相关，主要是github分支和云盘两种方式。最终个人采用了云盘的方式（因为懒。。。）</li><li><a href="https://www.jianshu.com/p/c311d31265e0" target="_blank" rel="noopener">hexo页脚添加访客人数和总访问量</a>,利用busuanzi统计访问量，这是个hexo自带的，启用功能即可。</li></ul><p>hexo这东西折腾起来可以玩几天，有精力了再优化界面吧，只要博客写博客功能正常就行。<br>关于迁移的问题，我个人云盘备份，在新机器上直接npm install就完事了。<br>另外本人最后写博客用的是hexo admin方式，暂时能满足需要，不过有些语法好像支持有点问题，后面有时间继续折腾吧。</p><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<!-- build time:Sun Mar 03 2019 23:20:41 GMT+0800 (中国标准时间) --><p>本部分简略的记录了博客搭建过程中参考的主要网站</p><ul><li><a href="https://www.imooc.com/article/31085" target="_blank" rel="noopener">关于Hexo6.0搭建个人博客(github+Google-收录篇)</a> 里面连接的几篇文章读下来hexo应该就没问题了，这篇是用来部署的</li><li><a href="https://www.zhihu.com/question/21193762" target="_blank" rel="noopener">使用hexo，如果换了电脑怎么更新博客？ </a>博客迁移相关，主要是github分支和云盘两种方式。最终个人采用了云盘的方式（因为懒。。。）</li><li><a href="https://www.jianshu.com/p/c311d31265e0" target="_blank" rel="noopener">hexo页脚添加访客人数和总访问量</a>,利用busuanzi统计访问量，这是个hexo自带的，启用功能即可。这里必须要多说一点，total等属性是新版本的内容，启用的话会在下面显示小人像和眼睛图标，但如果在footer.swig中谢了span代码引用，代码那里会正常显示，而图标这里也有，但不会有计数了。还有site等属性好像是旧版本的，我单独设置了没起作用。最后我采用了代码引入的方式，可以定制样子。我用busuanzi是来统计访uv和pv的，文章相关内容交给了leancloud来统计。</li><li><a href="https://yfzhou.coding.me/2018/08/08/Hexo-Next%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%88%E6%B7%BB%E5%8A%A0%E7%BB%9F%E8%AE%A1%E8%AE%BF%E5%AE%A2%E9%87%8F%E4%BB%A5%E5%8F%8A%E6%96%87%E7%AB%A0%E9%98%85%E8%AF%BB%E9%87%8F%EF%BC%89/" target="_blank" rel="noopener">Hexo-Next搭建个人博客（添加统计访客量以及文章阅读量）</a>这里详细讲了leancloud的方式，也很简单。leancloud还能添加valine评论系统，next支持，简单好用。</li></ul><p>hexo这东西折腾起来可以玩几天，有精力了再优化界面吧，只要博客写博客功能正常就行。<br>关于迁移的问题，我个人云盘备份，在新机器上直接npm install就完事了。<br>另外本人最后写博客用的是hexo admin方式，暂时能满足需要，不过有些语法好像支持有点问题，后面有时间继续折腾吧。<br>最后吐槽，访问实在是太慢了。。。</p><!-- rebuild by neat -->]]></content>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Sun Mar 03 2019 22:17:26 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;本部分简略的记录了博客搭建过程中参考的主要网站&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.imooc.com/article/3
+        &lt;!-- build time:Sun Mar 03 2019 23:20:41 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;本部分简略的记录了博客搭建过程中参考的主要网站&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.imooc.com/article/3
       
     
     </summary>
